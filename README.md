@@ -1,3 +1,11 @@
+# Localstorage data encrypt and decrypt
+![1](https://user-images.githubusercontent.com/100868300/156892729-bcec7217-f444-461a-b5fb-7e538e6e9198.png)
+![2](https://user-images.githubusercontent.com/100868300/156892732-bb9e5bcd-5362-4dde-9823-b319953b4a60.png)
+![Screenshot 2022-03-05 223808](https://user-images.githubusercontent.com/100868300/156892735-6b69b599-c378-4716-a237-abaf6a730469.png)
+
+
+
+
 # AngularEncryptDecrypt
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
